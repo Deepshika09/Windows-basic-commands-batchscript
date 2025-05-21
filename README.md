@@ -22,44 +22,61 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
-Create a directory named "my-folder"
+## Create a directory named "my-folder"
+![alt text](<Screenshot 2025-05-19 233045.png>)
+COMMAND AND OUTPUT
 
-## COMMAND AND OUTPUT
+## Remove the directory "my-folder"
+ COMMAND AND OUTPUT
 
-Remove the directory "my-folder"
+![alt text](<Screenshot 2025-05-19 233124.png>)
 
-## COMMAND AND OUTPUT
+## Create the file Rose.txt
 
-
-Create the file Rose.txt
-
-## COMMAND AND OUTPUT
-
-
-Create the file hello.txt using echo and redirection
-
-## COMMAND AND OUTPUT
-
-Copy the file hello.txt into the file hello1.txt
-
-## COMMAND AND OUTPUT
-
-Remove the file hello1.txt
-
-## COMMAND AND OUTPUT
-
-List out the file hello1.txt in the current directory
-
-## COMMAND AND OUTPUT
-
-List out all the associated file extensions 
-
-## COMMAND AND OUTPUT
+COMMAND AND OUTPUT
+![alt text](<Screenshot 2025-05-19 233150.png>)
 
 
-Compare the file hello.txt and rose.txt
+## Create the file hello.txt using echo and redirection
+COMMAND AND OUTPUT
+![alt text](<Screenshot 2025-05-19 233556.png>)
 
-## COMMAND AND OUTPUT
+ 
+
+## Copy the file hello.txt into the file hello1.txt
+
+COMMAND AND OUTPUT
+![alt text](<Screenshot 2025-05-19 233633.png>)
+
+
+## Remove the file hello1.txt
+COMMAND AND OUTPUT
+![alt text](<Screenshot 2025-05-19 233656.png>)
+
+## List out the file hello1.txt in the current directory
+COMMAND AND OUTPUT
+![alt text](<Screenshot 2025-05-19 233731.png>)
+
+## List out all the associated file extensions 
+
+ COMMAND AND OUTPUT
+![alt text](<Screenshot 2025-05-19 233814.png>)
+![alt text](<Screenshot 2025-05-19 233826.png>)
+![alt text](<Screenshot 2025-05-19 233954.png>)
+![alt text](<Screenshot 2025-05-19 234100.png>)
+![alt text](<Screenshot 2025-05-19 234126.png>)
+![alt text](<Screenshot 2025-05-19 234141.png>)
+![alt text](<Screenshot 2025-05-20 000555.png>)
+![alt text](<Screenshot 2025-05-20 000555.png>)
+![alt text](<Screenshot 2025-05-20 000604.png>)
+![alt text](<Screenshot 2025-05-20 000612.png>)
+![alt text](<Screenshot 2025-05-20 000620.png>)
+![alt text](<Screenshot 2025-05-20 000629.png>)
+![alt text](<Screenshot 2025-05-20 000639.png>)
+
+## Compare the file hello.txt and rose.txt
+COMMAND AND OUTPUT
+![alt text](<Screenshot 2025-05-20 000714.png>)
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -69,7 +86,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
-
+![alt text](<Screenshot 2025-05-21 185448.png>)
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -83,7 +100,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
-
+![alt text](<Screenshot 2025-05-21 190014.png>)
 
 
 
@@ -93,7 +110,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
-
+![alt text](<Screenshot 2025-05-21 185828.png>)
 
 
 
@@ -106,7 +123,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-
+![alt text](<Screenshot 2025-05-21 190031.png>)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -116,8 +133,9 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
-
-
+![alt text](<Screenshot 2025-05-21 190031.png>)
+![alt text](<Screenshot 2025-05-21 190040.png>)
+![alt text](<Screenshot 2025-05-21 190049.png>)
 
 # RESULT:
 The commands/batch files are executed successfully.
